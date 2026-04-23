@@ -1,3 +1,15 @@
+# [1.18.0](https://github.com/fenix-assistant/fenix-plugin/compare/v1.17.2...v1.18.0) (2026-04-23)
+
+
+### Bug Fixes
+
+* update Fenix account URL to app.fenix.devshire.app ([fa0d671](https://github.com/fenix-assistant/fenix-plugin/commit/fa0d671bec36a4b7553dc1450d001baef3612acb))
+
+
+### Features
+
+* **opencode:** configure static OAuth client_id in manifest ([b22cf49](https://github.com/fenix-assistant/fenix-plugin/commit/b22cf4945dee2378757a752575687de9b9b61627))
+
 ## [1.17.2](https://github.com/fenix-assistant/fenix-plugin/compare/v1.17.1...v1.17.2) (2026-03-23)
 
 
